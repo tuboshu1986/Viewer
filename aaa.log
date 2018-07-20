@@ -1,0 +1,5 @@
+[2018-07-16 16:52:01,715][main][INFO]:com.view.log4j.Test.main(Test.java:10):>>>>开始
+[2018-07-16 16:52:01,718][main][ERROR]:com.view.log4j.Test.main(Test.java:18):>>>>错误
+java.lang.Exception: 这次V中
+	at com.view.log4j.Test.main(Test.java:15)
+[2018-07-16 16:52:01,720][main][INFO]:com.view.log4j.Test.main(Test.java:21):>>>>结束
